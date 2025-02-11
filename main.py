@@ -7,7 +7,7 @@ import time
 
 
 
-email, username, pwd = "aerozoffpro@gmail.com", "NsfwDailyPorn", "Aeroz@2806!83?"
+email, username, pwd = "stormshop83@gmail.com", "DailyClubPorn", "Aeroz@2806!83?"
 account = Account(email, username, pwd)
 scraper = Scraper(email, username, pwd)
 
