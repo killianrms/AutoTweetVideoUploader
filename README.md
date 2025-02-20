@@ -1,7 +1,3 @@
-Voici le modèle de README GitHub pour ton code Python. Ce fichier contient les instructions pour installer les dépendances, modifier les variables nécessaires dans le code, et le mention de ton collègue contributeur :
-
----
-
 # Projet d'Upload Automatique de Vidéos sur Twitter
 
 ## Description
