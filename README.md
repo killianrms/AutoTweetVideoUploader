@@ -1,4 +1,4 @@
-# Projet d'Upload Automatique de Vidéos sur Twitter
+# AutoTweetVideoUploader
 
 ## Description
 Ce script Python permet de télécharger des vidéos depuis des comptes Twitter spécifiques et de les publier automatiquement sur un compte Twitter. Il scrute des comptes, choisit des vidéos à uploader, puis les poste sur un compte Twitter prédéfini. Ce script nécessite une configuration initiale pour fonctionner correctement.
