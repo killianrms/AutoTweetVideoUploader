@@ -56,4 +56,4 @@ python main.py
 Le script fonctionnera en boucle infinie, téléchargeant et publiant des vidéos toutes les 10 à 14 heures.
 
 ## Contributeurs
-Ce projet a été créé en collaboration avec [@Clement-Garro](https://github.com/Clement-Garro).
+Ce projet a été créé en collaboration avec [@Clement-Garro](https://github.com/Clement-Garro) et [@elgrnd](https://github.com/elgrnd).
